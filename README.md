@@ -1,1 +1,3 @@
 # Data-Model-Project
+
+#### In this project I created a data model utilizing three seperate csv files in jupyter notebook. This project required the use of data cleaning, python with the python libraries pandas and psycopg2, and postgreSQL. While completing this project I developed a data model for different countries relative wealth based on different indicators in the years 1995, 2000, 2005, 2010, and 2014. This is a project that focuses on preparing the data for future steps, whether that be analyses, reporting or machine learning this is a crucial step of any process involving data. I throughly enjpyed this project and hope to gather more skills on data engineering through future endeavors.
